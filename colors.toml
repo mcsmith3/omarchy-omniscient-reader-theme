@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Omniscient Reader's Viewpoint: ink black and paper white — Yu Junghyeok's
+# black coat against Kim Dokja's white one — under the indigo of a night full
+# of constellations. Colours are lifted from the wallpapers.
+accent = "#9AA7E0"
+selection = "#2A3160"
+selection_foreground = "#F7F8FB"
+muted = "#686D88"
+
+background = "#0A0B12"
+dark_background = "#07080D"
+darker_background = "#040508"
+lighter_background = "#171A28"
+
+foreground = "#DFE2EC"
+dark_foreground = "#8B90A8"
+light_foreground = "#C5C9D8"
+bright_foreground = "#F7F8FB"
+
+# Window borders run from the white coat into the starlit indigo.
+hyprland_active_border = "rgba(F7F8FBee) rgba(9AA7E0ee) 45deg"
+hyprland_inactive_border = "rgba(2A3160aa)"
+
+red = "#DC6570"
+yellow = "#E0C27A"
+orange = "#D99368"
+green = "#7FC9A0"
+cyan = "#8FC4E0"
+blue = "#6F8FD8"
+magenta = "#B49AD8"
+brown = "#A08088"
+
+bright_red = "#F0858E"
+bright_yellow = "#F0D79C"
+bright_green = "#A0DDBB"
+bright_cyan = "#B3DBF0"
+bright_blue = "#93AEEA"
+bright_magenta = "#CDB8EA"

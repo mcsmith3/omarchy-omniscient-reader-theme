@@ -1,0 +1,9 @@
+# Omniscient Reader: notifications arrive like the Star Stream's scenario
+# windows — a deep indigo panel with a starlit edge.
+[notifications]
+background       = "#0D1024"
+background-alpha = 0.92
+text             = "#DFE2EC"
+border           = "#9AA7E0"
+border-alpha     = 1.0
+countdown        = "#E0C27A"
