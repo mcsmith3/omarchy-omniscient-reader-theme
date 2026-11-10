@@ -41,7 +41,7 @@ Star Stream's scenario windows: indigo panels with a starlit edge.
   browser and shell colours from it
 - `shell.notifications.toml` — the scenario-window notification style
 - `icons.theme` — blue Yaru folder icons
-- `backgrounds/` — eight wallpapers; cycle with `omarchy theme bg next`
+- `backgrounds/` — ten wallpapers; cycle with `omarchy theme bg next`
 - `screensaver/` and `scripts/` — the optional pixel-rain screensaver
 
 ## Wallpapers
@@ -56,6 +56,8 @@ Star Stream's scenario windows: indigo panels with a starlit edge.
 | `06-demon-king.jpg` | Dokja as the Demon King of Salvation, black wings spread. |
 | `07-ink.jpg` | Yu Junghyeok in black-and-white manhwa ink. |
 | `08-red-curtain.jpg` | The two of them seated before a red curtain. |
+| `09-black-wings.jpg` | The two of them close together, wrapped in black wings. |
+| `10-white-and-black.jpg` | Yu Junghyeok in black holding Dokja in white, wings behind them. |
 
 Several of these are light images; `01`, `05` and `08` are the dark ones if you
 want the desktop to stay dim. Add your own to `backgrounds/` and they join the
